@@ -1,0 +1,103 @@
+ .u-section-1 {
+  background-image: linear-gradient(60deg, #f1c50e, black);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1374px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 180px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 1015px;
+  background-image: none;
+  width: 616px;
+  --thumb-color: #95ccc3;
+  --thumb-hover-color: #b2dbd5;
+  --track-color: #c0c0c0;
+  --track-active-color: #95ccc3;
+  margin: 35px auto 60px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  font-size: 1.375rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-9 {
+  --progress: 1%;
+}
+
+.u-section-1 .u-form-group-10 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-11 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 0px;
+  background-image: none;
+  font-size: 1.25rem;
+  font-weight: 400;
+  text-transform: none;
+  width: 100%;
+  padding: 11px 0 12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.4375rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
